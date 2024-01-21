@@ -30,6 +30,6 @@ The project Finish in just 15 Days. After all, sales have increased over the pre
 
 
 
-[![Webinar booking website template](https://i.ibb.co/vwN8cgW/live-demo.png)](https://index.com)
+[![Webinar booking website template](https://i.ibb.co/vwN8cgW/live-demo.png)](https://index.html)
 
 
