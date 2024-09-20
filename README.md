@@ -1,4 +1,4 @@
-# hawkwings-Electric-EV
+# Hawkwings-Electric-EV
 
 ![Webinar booking website template](hawkingimage.png)
 
